@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AquaNinja_Figma</string>
+    <string name="history_button_text">Riwayat aktivitas minum</string>
+    <string name="add_button_text">Minum ini hari ini</string>
+    <string name="tv_target_text">0% selesai! Target 2000ml</string>
+</resources>
